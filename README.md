@@ -8,6 +8,9 @@ This is a Perlin Noise Flow Field. Using [Perlin Noise](https://en.wikipedia.org
 This project was the final version of code I submitted for an 11th grade Math honors assignment I had in 2016. The goal was to teach myself unique coding concepts, and I quickly was interested in Perlin Noise and what it can be used for. I followed many tutorials by [Daniel Shiffman](https://shiffman.net/) on his Youtube channel, [Coding Train](https://www.youtube.com/user/shiffman). The specific project followed is his series on Perlin Noise which can be found [here](https://www.youtube.com/watch?v=Qf4dIN99e2w&list=PLRqwX-V7Uu6bgPNQAdxQZpJuJCjeOr7VD). Feel free to use my code however you please.
 
 ## How to Run:
+
+[Click Here](index.html)
+
 Download the repo to your computer, and click on the ```index.html``` till it opens. Each time you refresh, you should see a different iteration of the image be created.
 
 ## Inspired By:
