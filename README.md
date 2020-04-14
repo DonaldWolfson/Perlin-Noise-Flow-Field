@@ -1,4 +1,4 @@
-# Perlin-Noise-Flow-Field
+# Perlin Noise Flow Field
 Perlin Noise Flow Field used to create a "random" black and white particle effect.
 
 ![Perlin Noise Flow Field Example](/img/Example.png)
