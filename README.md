@@ -9,8 +9,6 @@ This project was the final version of code I submitted for an 11th grade Math ho
 
 ## How to Run:
 
-[Click Here](index.html)
-
 Download the repo to your computer, and click on the ```index.html``` till it opens. Each time you refresh, you should see a different iteration of the image be created.
 
 ## Inspired By:
